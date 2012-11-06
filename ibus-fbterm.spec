@@ -2,7 +2,7 @@ Summary:	IBus front-end for fbterm
 Summary(pl.UTF-8):	Interfejs platformy IBus dla fbterma
 Name:		ibus-fbterm
 Version:	0.9.1
-Release:	3
+Release:	4
 License:	GPL v3
 Group:		Applications/System
 #Source0Download: http://code.google.com/p/ibus-fbterm/downloads/list
