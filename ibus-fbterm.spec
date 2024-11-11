@@ -1,13 +1,13 @@
 Summary:	IBus front-end for fbterm
 Summary(pl.UTF-8):	Interfejs platformy IBus dla fbterma
 Name:		ibus-fbterm
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	GPL v3
 Group:		Applications/System
 #Source0Download: https://github.com/fujiwarat/ibus-fbterm/releases
 Source0:	https://github.com/fujiwarat/ibus-fbterm/releases/download/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	3ea4c7385567765b73002a48f98503f3
+# Source0-md5:	5f574826ff1059e72de34e775547bdc2
 URL:		https://github.com/fujiwarat/ibus-fbterm
 BuildRequires:	glib2-devel >= 1:2.32.0
 BuildRequires:	ibus-devel >= 1.5.0
